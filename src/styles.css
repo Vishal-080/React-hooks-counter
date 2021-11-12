@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: transparent;
+  background-color: royalblue;
+  color: aliceblue;
+}
+
+button {
+  margin: auto 15px;
+  background-color: grey;
+  font-size: 20px;
+  color: white;
+}
